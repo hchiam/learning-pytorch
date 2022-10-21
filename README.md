@@ -50,3 +50,8 @@ python3 demo_use_model.py
 - Directly coding in C# as a library: https://github.com/dotnet/TorchSharp
 
   - Here are some examples of using TorchSharp: https://github.com/dotnet/TorchSharpExamples/tree/main/src/CSharp/CSharpExamples
+
+## Stable Diffusion Colab
+
+https://colab.research.google.com/drive/1roZqqhsdpCXZr8kgV_Bx_ABVBPgea3lX
+
