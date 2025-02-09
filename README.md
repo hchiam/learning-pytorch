@@ -8,6 +8,8 @@ https://pytorch.org
 
 https://pytorch.org/get-started/locally --> this website automatically suggests how to install locally
 
+https://github.com/pytorch/examples --> example PyTorch code for quick starts, e.g. [Image classification (MNIST) using Convnets](https://github.com/pytorch/examples/tree/main/mnist), [Training Imagenet Classifiers with Popular Networks](https://github.com/pytorch/examples/tree/main/imagenet), [DCGAN](https://github.com/pytorch/examples/blob/main/dcgan/README.md), [VAE](https://github.com/pytorch/examples/tree/main/vae), [RL](https://github.com/pytorch/examples/tree/main/reinforcement_learning), [time sequence prediction](https://github.com/pytorch/examples/tree/main/time_sequence_prediction), [translation](https://github.com/pytorch/examples/tree/main/language_translation), and much more
+
 e.g.:
 
 ```sh
