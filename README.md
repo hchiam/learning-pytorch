@@ -55,3 +55,10 @@ python3 demo_use_model.py
 
 https://colab.research.google.com/drive/1roZqqhsdpCXZr8kgV_Bx_ABVBPgea3lX
 
+## PyTorch Deep Learning Cheat Sheet
+
+https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch
+
+## Suggestions on how to learn PyTorch
+
+https://www.datacamp.com/blog/how-to-learn-pytorch
