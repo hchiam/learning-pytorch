@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+"PyTorch in 100 seconds": https://www.youtube.com/watch?v=ORMx45xqWkA
+
 https://pytorch.org
 
 https://pytorch.org/get-started/locally --> this website automatically suggests how to install locally
